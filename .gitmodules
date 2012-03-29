@@ -1,0 +1,3 @@
+[submodule "ext/batik"]
+	path = ext/batik
+	url = git://git.apache.org/batik.git
